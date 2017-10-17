@@ -24,6 +24,15 @@ $purple: #5b2578;
 $yellow: #d98a1d;
 $red: #b91e2b;
 
+$theme-colors: (
+  primary: $green,
+  secondary: $purple,
+  success: $green,
+  warning: $yellow,
+  danger: $red,
+  dark: $black
+);
+
 
 // Typography
 //
