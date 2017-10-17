@@ -1,0 +1,13 @@
+{
+  "complete_theme": "./assets/bootstrap.scss",
+  "variables": [
+    "./assets/ovv-bootstrap-variables.scss",
+    "./assets/bootstrap-variables.scss"
+  ],
+  "scripts": [
+    "./node_modules/bootstrap/dist/js/*",
+    "./node_modules/tether/dist/js/tether.min.js",
+    "./node_modules/jquery/dist/jquery.min.js"
+  ],
+  "dist": "./dist/"
+}
